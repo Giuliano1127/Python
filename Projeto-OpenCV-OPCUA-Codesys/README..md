@@ -14,6 +14,12 @@ Certifique-se de ter as bibliotecas necessárias instaladas:
 ```bash
 pip install opencv-python numpy opcua
 
+## Video no Linkedin
+
+linkedin.com/in/giuliano-barone-6a3a67249
+
+
+
 
 
 
