@@ -1,0 +1,15 @@
+# Sistema de Visão Computacional (OpenCV + OPC UA)
+
+Este projeto realiza a detecção de objetos coloridos (vermelho e verde) através de uma câmera em tempo real e envia o estado da detecção para um PLC via protocolo **OPC UA**.
+
+## Funcionalidades
+- Captura de vídeo via URL.
+- Processamento de imagem: redimensionamento, filtro de ruído (Blur) e conversão para espaço de cor HSV.
+- Detecção de cores específicas com limiar ajustável.
+- Integração em tempo real com servidor OPC UA (ex: CODESYS).
+- Exibição visual dos contornos detectados.
+
+## Pré-requisitos
+Certifique-se de ter as bibliotecas necessárias instaladas:
+```bash
+pip install opencv-python numpy opcua
