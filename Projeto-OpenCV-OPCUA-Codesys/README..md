@@ -38,7 +38,7 @@ O projeto captura imagens de uma câmera IP ou webcam, realiza o processamento d
 Execute o arquivo principal:
 
 ```bash
-python main.py
+main.py
 ```
 ---
 
