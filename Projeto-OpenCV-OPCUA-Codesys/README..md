@@ -1,3 +1,13 @@
+
+
+
+
+
+
+
+
+
+
 # Sistema de Visão Computacional (OpenCV + OPC UA)
 
 Sistema desenvolvido em **Python** utilizando **OpenCV** para detecção de objetos coloridos em tempo real e comunicação com um **PLC** através do protocolo **OPC UA**.
@@ -71,15 +81,16 @@ main.py
 - Envio do estado da detecção para o PLC via OPC UA.
 - Exibição dos contornos identificados na tela.
 
----
+https://github.com/user-attachments/assets/c48e4b83-027f-449c-a89a-0c60f32a6f9e
 
+
+---
 ## 👤 Autor
 
 **Giuliano Barone**
 
 LinkedIn:  
 https://linkedin.com/in/giuliano-barone-6a3a67249
-
 ---
 
 ## 📄 Licença
